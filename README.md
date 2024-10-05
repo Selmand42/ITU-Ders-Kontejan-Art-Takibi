@@ -15,11 +15,11 @@ Program, belirtilen sürelerde ders seçim ekranını açmanızı bekler, ders s
 ## Kullanım
 Programı çalıştırırken aşağıdaki argümanları sırasıyla girmeniz gerekmektedir:
 
-Ders Seçim Ekranını Açma Süresi (saniye): Programın ders seçim ekranını açmanız için bekleyeceği süre.
+**Ders Seçim Ekranını Açma Süresi (saniye):** Programın ders seçim ekranını açmanız için bekleyeceği süre.
 
-Ders Seçim İsteği Gönderme Aralığı (saniye): Programın ders seçim isteklerini hangi aralıklarla göndereceği.
+**Ders Seçim İsteği Gönderme Aralığı (saniye):** Programın ders seçim isteklerini hangi aralıklarla göndereceği.
 
-Derslerin CRN Kodları: Seçmek istediğiniz derslerin CRN (Course Reference Number) kodları. Birden fazla ders seçmek isterseniz, kodları aralarında boşluk bırakarak girebilirsiniz.
+**Derslerin CRN Kodları:** Seçmek istediğiniz derslerin CRN (Course Reference Number) kodları. Birden fazla ders seçmek isterseniz, kodları aralarında boşluk bırakarak girebilirsiniz.
 
 ## Örnek Kullanım:
 
